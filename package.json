@@ -1,0 +1,19 @@
+{
+  "name": "assignment-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio website for school projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StringJoe/assignment-portfolio.git"
+  },
+  "author": "Joseph Santay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StringJoe/assignment-portfolio/issues"
+  },
+  "homepage": "https://github.com/StringJoe/assignment-portfolio#readme"
+}
