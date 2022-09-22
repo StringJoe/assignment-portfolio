@@ -18,32 +18,30 @@ p{
 }
 
 #proj-1-para-1 {
-    position: absolute;
-    top: 625px;
-    left: 80px;
+    position: relative;
+    left: 8%;
     color: yellow;
 }
 
 #adjust-image-1{
-    position: absolute;
-    top: 660px;
+    position: relative;
+    left: 5%;
 }
 
 #proj-2-para-2 {
-    position: absolute;
-    top: 625px;
-    left: 38%;
+    position: relative;
+    bottom: 450px;
+    left: 48%;
     color: yellow;
 }
 
 #adjust-image-2{
-    position: absolute;
-    top: 660px;
-    left: 30%;
+    position: relative;
+    bottom: 450px;
+    left: 40%;
 }
 
 #bottom-bar {
     border-top: solid;
     position: relative;
-    top: 450px;
 }
