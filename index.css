@@ -1,16 +1,49 @@
-#header-image {
-    display: block;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    
+.header-position {
+    position: absolute;
+    top: 8px;
+    left: 40%;
+    color: yellow;
 }
 
-h1 {
-    text-align: center;
+body {
+    background-color:black;
 }
 
-#intro {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+p{
+    color: yellow;
+}
+
+.header-color {
+    color: aqua;
+}
+
+#proj-1-para-1 {
+    position: absolute;
+    top: 625px;
+    left: 80px;
+    color: yellow;
+}
+
+#adjust-image-1{
+    position: absolute;
+    top: 660px;
+}
+
+#proj-2-para-2 {
+    position: absolute;
+    top: 625px;
+    left: 38%;
+    color: yellow;
+}
+
+#adjust-image-2{
+    position: absolute;
+    top: 660px;
+    left: 30%;
+}
+
+#bottom-bar {
+    border-top: solid;
+    position: relative;
+    top: 450px;
 }
