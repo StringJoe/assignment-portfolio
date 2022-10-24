@@ -17,31 +17,15 @@ p{
     color: aqua;
 }
 
-#proj-1-para-1 {
-    position: relative;
-    left: 8%;
-    color: yellow;
-}
 
-#adjust-image-1{
-    position: relative;
-    left: 5%;
-}
-
-#proj-2-para-2 {
-    position: relative;
-    bottom: 450px;
-    left: 48%;
-    color: yellow;
-}
-
-#adjust-image-2{
-    position: relative;
-    bottom: 450px;
-    left: 40%;
+.project-list p {
+    background-color: yellow;
+    width: 400px;
+    text-align: center;
 }
 
 #bottom-bar {
     border-top: solid;
+    margin-top: 5%;
     position: relative;
 }
